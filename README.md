@@ -1,4 +1,4 @@
-# Conky_SideBar
+# Conky SideBar
 
 This is a new Layout Created by me to Conky
 
